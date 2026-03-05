@@ -1,0 +1,54 @@
+# ================================================================
+# VictoriaMetrics K8s Stack - values.yaml
+# ================================================================
+
+# --- Оператор (менеджер всіх VM компонентів) ---
+victoria-metrics-operator:
+  enabled: true
+
+# --- База даних метрик (single-node, достатньо для навчання) ---
+vmsingle:
+  enabled: true
+  spec:
+    retentionPeriod: "7d"          # зберігати метрики 7 днів
+    resources:
+      requests:
+        memory: 256Mi
+        cpu: 100m
+      limits:
+        memory: 512Mi
+        cpu: 500m
+    storage:
+      accessModes:
+        - ReadWriteOnce
+      resources:
+        requests:
+          storage: 2Gi
+
+# --- VMAgent (збирач метрик, аналог Prometheus scraper) ---
+vmagent:
+  enabled: true
+  spec:
+    resources:
+      requests:
+        memory: 64Mi
+        cpu: 50m
+    # Мітки які будуть додані до ВСІХ метрик з цього агента
+    externalLabels:
+      cluster: local-k0s
+
+# --- Grafana (візуалізація) ---
+grafana:
+  enabled: true
+  adminPassword: "DevOps2024!"
+  service:
+    type: NodePort      # доступна ззовні кластера через порт
+    nodePort: 30080
+
+# --- Alertmanager (управління алертами) ---
+alertmanager:
+  enabled: true
+
+# --- Вимикаємо що не потрібно для навчання ---
+vmalert:
+  enabled: false        # увімкнемо пізніше коли дійдемо до алертів

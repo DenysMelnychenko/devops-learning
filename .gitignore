@@ -1,0 +1,11 @@
+# Секрети і credentials — НІКОЛИ не комітимо
+*.pem
+*.key
+*secret*
+*password*
+kubeconfig
+.env
+
+# Тимчасові файли
+*.tmp
+*.bak

@@ -1,0 +1,14 @@
+apiVersion: operator.victoriametrics.com/v1beta1
+kind: VMStaticScrape
+metadata:
+  name: aws-ec2-node
+  namespace: monitoring
+spec:
+  jobName: aws-ec2
+  targetEndpoints:
+    - targets:
+        - "63.179.95.133:9100"
+      labels:
+        environment: aws
+        instance: devops-learning-server
+        job: node-exporter
