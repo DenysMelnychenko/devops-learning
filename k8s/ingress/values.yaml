@@ -1,6 +1,24 @@
 controller:
+  # Налаштування основного nginx контролера
+
   service:
+    # Як сервіс ingress-nginx буде доступний ззовні кластера
+
     type: NodePort
+    # NodePort = відкриває порт безпосередньо на хост-машині
+    # Альтернативи:
+    #   LoadBalancer = потребує хмарного провайдера (AWS ELB тощо)
+    #   ClusterIP = тільки всередині кластера (нам не підходить)
+    # Для локального k0s → NodePort єдиний практичний варіант
+
     nodePorts:
-      http: 32080    # HTTP трафік
-      https: 32443   # HTTPS трафік
+      http: 32080
+      # Порт для HTTP трафіку на хост-машині
+      # Тобто: http://localhost:32080 → ingress controller
+      # Чому 32080, а не 80?
+      # Kubernetes дозволяє NodePort тільки в діапазоні 30000-32767
+      # Порти нижче 1024 вимагають root прав
+
+      https: 32443
+      # Порт для HTTPS трафіку
+      # https://localhost:32443 → ingress controller

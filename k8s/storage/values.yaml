@@ -1,2 +1,7 @@
 storageClass:
   defaultClass: true
+  # true = цей StorageClass стає дефолтним в кластері
+  # Що це означає: якщо PVC не вказує storageClassName →
+  # Kubernetes автоматично використає цей клас
+  # false = треба явно вказувати в кожному PVC
+  # Для нашого навчального кластера true — зручніше

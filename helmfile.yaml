@@ -105,4 +105,3 @@ releases:
       - ingress-nginx/ingress-nginx
       # ArgoCD UI буде доступний через Ingress →
       # Ingress Controller має бути готовий першим
-EOF

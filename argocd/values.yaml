@@ -1,8 +1,25 @@
 server:
+  # Налаштування ArgoCD API сервера і UI
+
   service:
+    # Як ArgoCD UI буде доступний
+
     type: NodePort
-    nodePortHttp: 30090    # ArgoCD UI порт
-    nodePortHttps: 30443   # ArgoCD API порт
+    # Аналогічно до ingress — для локального k0s
+
+    nodePortHttp: 30090
+    # Порт на якому буде доступний ArgoCD UI
+    # http://localhost:30090 → ArgoCD dashboard
+
 configs:
+  # Загальні конфігурації ArgoCD
+
   params:
+    # Параметри запуску ArgoCD сервера
+
     server.insecure: true
+    # true = ArgoCD працює без TLS (HTTP замість HTTPS)
+    # ТІЛЬКИ для локального навчального середовища!
+    # В production завжди false — TLS обов'язковий
+    # Без цього параметру браузер буде скаржитись
+    # на самопідписаний сертифікат
