@@ -1,0 +1,108 @@
+# ════════════════════════════════════════════════════════
+# helmfile.yaml — Bootstrap інфраструктури
+#
+# ПРИЗНАЧЕННЯ:
+# Цей файл описує базові компоненти які встановлюються
+# ОДИН РАЗ вручну перед тим як ArgoCD бере управління.
+#
+# ПОРЯДОК ВСТАНОВЛЕННЯ (визначається через needs:):
+# 1. local-path-provisioner  (storage)
+# 2. ingress-nginx           (потребує storage)
+# 3. argocd                  (потребує storage + ingress)
+#
+# ЗАПУСК:
+# helmfile apply
+# ════════════════════════════════════════════════════════
+
+repositories:
+  # Список джерел Helm чартів.
+  # Аналог: рядки в /etc/apt/sources.list
+
+  - name: containeroo
+    # Ім'я репо — використовується як префікс в releases
+    # Наприклад: containeroo/local-path-provisioner
+    url: https://charts.containeroo.ch
+    # Єдиний активний Helm репо з чартом local-path-provisioner
+    # Офіційний спосіб від Rancher — kubectl apply (не Helm)
+    # Але для helmfile уніфікації використовуємо цей чарт
+
+  - name: ingress-nginx
+    # Офіційний репо від Kubernetes community
+    url: https://kubernetes.github.io/ingress-nginx
+
+  - name: argo
+    # Офіційний репо від команди ArgoCD (Argo Project)
+    url: https://argoproj.github.io/argo-helm
+
+releases:
+  # Кожен release = одна встановлена копія Helm чарту.
+  # Helmfile встановлює їх в правильному порядку
+  # автоматично на основі needs: залежностей.
+
+  # ════════════════════════════════════════════════════
+  # 1. StorageClass провізіонер
+  # ════════════════════════════════════════════════════
+  - name: local-path-provisioner
+    # Ім'я релізу — видно в "helm list -A"
+    # Обирай зрозумілу назву що описує призначення
+
+    namespace: local-path-storage
+    # Namespace де буде жити цей компонент.
+    # Окремий namespace = ізоляція = легше знайти і видалити
+
+    createNamespace: true
+    # true = створити namespace якщо не існує
+    # false (дефолт) = помилка якщо namespace відсутній
+    # Для bootstrap завжди true — кластер порожній
+
+    chart: containeroo/local-path-provisioner
+    # <ім'я репо з секції repositories>/<назва чарту>
+    # Helmfile знає де шукати бо ми описали репо вище
+
+    version: "0.0.35"
+    # ЗАВЖДИ фіксуємо конкретну версію!
+    # Без version → Helm бере latest на момент запуску →
+    # сьогодні працює, завтра після релізу нової версії
+    # може зламатись → непередбачувана інфраструктура
+
+    values:
+      - k8s/storage/values.yaml
+      # Шлях до нашого values файлу (відносно helmfile.yaml)
+      # Ці values ПЕРЕВИЗНАЧАЮТЬ дефолти з чарту
+
+  # ════════════════════════════════════════════════════
+  # 2. Ingress Controller
+  # ════════════════════════════════════════════════════
+  - name: ingress-nginx
+    namespace: ingress-nginx
+    createNamespace: true
+    chart: ingress-nginx/ingress-nginx
+    version: "4.14.3"
+    # Актуальна версія станом на березень 2026
+    values:
+      - k8s/ingress/values.yaml
+    needs:
+      - local-path-storage/local-path-provisioner
+      # Формат: <namespace>/<release-name>
+      # "Не встановлюй мене поки не готовий storage"
+      # Helmfile сам визначає порядок запуску на основі цього
+
+  # ════════════════════════════════════════════════════
+  # 3. ArgoCD — GitOps контролер
+  # ════════════════════════════════════════════════════
+  - name: argocd
+    namespace: argocd
+    createNamespace: true
+    chart: argo/argo-cd
+    version: "9.4.9"
+    # Актуальна версія станом на березень 2026
+    values:
+      - argocd/values.yaml
+    needs:
+      - local-path-storage/local-path-provisioner
+      # ArgoCD використовує Redis (кеш) який потребує PVC →
+      # потрібен StorageClass перед встановленням
+      - ingress-nginx/ingress-nginx
+      # ArgoCD UI буде доступний через Ingress →
+      # Ingress Controller має бути готовий першим
+EOF

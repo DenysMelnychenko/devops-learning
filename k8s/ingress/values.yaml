@@ -1,0 +1,6 @@
+controller:
+  service:
+    type: NodePort
+    nodePorts:
+      http: 32080    # HTTP трафік
+      https: 32443   # HTTPS трафік

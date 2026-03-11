@@ -1,0 +1,8 @@
+server:
+  service:
+    type: NodePort
+    nodePortHttp: 30090    # ArgoCD UI порт
+    nodePortHttps: 30443   # ArgoCD API порт
+configs:
+  params:
+    server.insecure: true
