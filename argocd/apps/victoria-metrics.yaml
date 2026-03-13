@@ -5,22 +5,24 @@ metadata:
   namespace: argocd
 spec:
   project: default
-  source:
-    repoURL: https://github.com/DenysMelnychenko/devops-learning.git
-    targetRevision: main
-    path: k8s/monitoring
-    helm:
+
+  sources:
+    - repoURL: https://victoriametrics.github.io/helm-charts/
       chart: victoria-metrics-k8s-stack
-      version: "0.72.4"
-      releaseName: vm-stack
-      valueFiles:
-        - values.yaml
-      ignoreMissingValueFiles: false
-  sourceRepos:
-    - https://victoriametrics.github.io/helm-charts/
+      targetRevision: "0.72.4"
+      helm:
+        releaseName: vm-stack
+        valueFiles:
+          - $values/k8s/monitoring/values.yaml
+
+    - repoURL: https://github.com/DenysMelnychenko/devops-learning.git
+      targetRevision: main
+      ref: values
+
   destination:
     server: https://kubernetes.default.svc
     namespace: monitoring
+
   syncPolicy:
     automated:
       prune: true
