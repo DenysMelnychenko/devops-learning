@@ -47,5 +47,5 @@ spec:
     - group: admissionregistration.k8s.io
       kind: ValidatingWebhookConfiguration
       name: vm-stack-victoria-metrics-operator-admission
-      jsonPointers:
-        - /webhooks/0/clientConfig/caBundle
+      jqPathExpressions:
+        - .webhooks[].clientConfig.caBundle
