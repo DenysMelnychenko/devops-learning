@@ -1,0 +1,33 @@
+apiVersion: argoproj.io/v1alpha1
+kind: Application
+metadata:
+  name: monitoring-scrapes
+  # namespace: argocd = всі ArgoCD Application живуть тут
+  namespace: argocd
+spec:
+  project: default
+
+  source:
+    # repoURL = звідки брати маніфести
+    repoURL: https://github.com/DenysMelnychenko/devops-learning.git
+    # targetRevision = яку гілку відслідковувати
+    targetRevision: main
+    # path = яку папку в репо розгортати
+    # ArgoCD візьме ВСІ yaml файли з цієї папки
+    path: k8s/monitoring/scrapes
+
+  destination:
+    # server = в який кластер деплоїти
+    server: https://kubernetes.default.svc
+    # namespace = в який namespace
+    namespace: monitoring
+
+  syncPolicy:
+    automated:
+      # prune: true = видаляти ресурси яких немає в git
+      prune: true
+      # selfHeal: true = відновлювати якщо хтось змінив вручну
+      selfHeal: true
+    syncOptions:
+      # CreateNamespace=true = створити namespace якщо не існує
+      - CreateNamespace=true
