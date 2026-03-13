@@ -1,0 +1,35 @@
+apiVersion: argoproj.io/v1alpha1
+kind: Application
+metadata:
+  name: root-app
+  namespace: argocd
+  annotations:
+    # argocd.argoproj.io/sync-wave контролює порядок синхронізації
+    # "-1" = цей ресурс синхронізується ПЕРШИМ
+    # важливо щоб root-app був готовий до того як діти з'являться
+    argocd.argoproj.io/sync-wave: "-1"
+spec:
+  project: default
+
+  source:
+    repoURL: https://github.com/DenysMelnychenko/devops-learning.git
+    targetRevision: main
+    # path = папка яку root-app відслідковує
+    # ArgoCD знайде ВСІ yaml файли тут і застосує їх
+    path: argocd/apps
+
+  destination:
+    server: https://kubernetes.default.svc
+    # namespace: argocd бо Application ресурси живуть тут
+    namespace: argocd
+
+  syncPolicy:
+    automated:
+      # prune: true = якщо видалиш файл з argocd/apps/ →
+      # ArgoCD видалить відповідний Application і всі його ресурси
+      prune: true
+      # selfHeal: true = якщо хтось вручну видалить Application →
+      # root-app його відновить з git
+      selfHeal: true
+    syncOptions:
+      - CreateNamespace=true
