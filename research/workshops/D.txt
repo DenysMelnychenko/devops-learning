@@ -1,0 +1,446 @@
+Home
+Course
+Program
+Purchase
+Speaking & Publications
+Large Language Models
+
+Мої 7 років практичного досвіду з LLM в одному курсі
+
+🚀 Онлайн-курс
+140+ задоволених учнів
+·
+⭐ 4.97/5
+
+Pavlo Lysyi
+
+AI Lead · Senior ML Engineer · AI Speaker · DOU Host · PhD candidate
+
+Хочу потрапити на курс
+Отримати запис вебінару «AI в IT: і що з цим робити?»
+ЩО ВИ ОТРИМАЄТЕ
+
+Конкретні результати після 14 уроків
+
+01
+
+Hard скіли які потрібні для junior/middle ML позиції та почни заробляти 2000-3000$ (за даними статистики DOU).
+
+02
+
+Технічні знання, які необхідні індустрії, і стань фахівцем, якого не замінить жоден AI.
+
+03
+
+Зрозумієш глибоко і технічно як працює ChatGPT під капотом та як застосувати ці знання на практиці.
+
+04
+
+Виділишся серед тисяч кандидатів, які вміють лише промптити — ти будеш розуміти, що відбувається всередині з точки зору математики і технічних підходів.
+
+05
+
+Перестанеш робити API запити в модель, а навчишся будувати складну архітектуру LLM пайплайнів з десятками моделей.
+
+06
+
+Створиш автономні системи агентів, RAG, рекомендаційні системи, ембединги — системи, які замінюють цілі відділи підтримки та аналітики.
+
+07
+
+Навчишся економити тисячі доларів на токенах та інфраструктурі — бізнес відірве тебе з руками за цю навичку.
+
+08
+
+Власні проекти на курсі (від RAG до мультиагентів) — це готові кейси, які продають тебе краще за будь-яке резюме.
+
+ДЛЯ КОГО ЦЕЙ КУРС
+
+Знайди себе серед тих, кому курс дасть максимум
+
+ML Engineers
+
+Опануй знання трансформерів, LLM, RAG-систем, ембедингів та агентів для продакшин пайплайнів
+
+Світчери
+
+Перейди в AI з іншої технічної сфери — курс дає чіткі знання і базу для початку роботи з LLM
+
+Product Managers
+
+Зрозумій можливості та обмеження LLM, щоб приймати кращі продуктові рішення
+
+Startup засновники
+
+Побудуй AI-продукт правильно з першого разу — без зайвих витрат і технічних проблем
+
+Всі, хто хоче використовувати LLM на максимум
+
+Навчись будувати реальні рішення, а не просто писати промпти в ChatGPT
+
+Хочеш увірватись у LLM
+
+Почни з нуля і розберися в архітектурі, промптах та агентах на практиці
+
+Програма курсу
+
+Від основ архітектури до продакшн-систем з агентами та RAG
+
+1
+LLM: історія, еволюція та чому вони змінили світ
+▸
+Що таке language modeling і next-token prediction
+▸
+Введення в класичне NLP
+▸
+N-grams → статистичні моделі → neural LM
+▸
+Word embeddings (Word2Vec, GloVe) як передумова LLM
+▸
+Що було до LLM: rule-based NLP, classical ML, seq2seq
+▸
+Чому LLM стали можливими саме зараз (data, compute, architecture)
+▸
+Emergent abilities та scaling laws
+▸
+Обмеження LLM як класу моделей
+2
+Transformer — архітектура, яка змінила все
+▸
+Проблеми RNN, LSTM, GRU на довгих послідовностях
+▸
+Seq2Seq з attention: проміжний етап
+▸
+Transformer: encoder, decoder, encoder-decoder
+▸
+Self-Attention: ідея, математика, інтуїція
+▸
+Multi-Head Attention: навіщо кілька голів
+▸
+Positional Encoding: absolute vs rotary (RoPE)
+▸
+Residual connections, LayerNorm
+▸
+Чому трансформери добре масштабуються
+▸
+Обчислювальна складність attention
+3
+Як насправді працює ChatGPT та сучасні LLM
+▸
+Pretraining на великих корпусах
+▸
+Supervised Fine-Tuning (SFT)
+▸
+Instruction tuning
+▸
+Reward modeling
+▸
+RLHF: Reinforcement Learning from Human Feedback
+▸
+Alignment vs intelligence
+▸
+Чому LLM не розуміють що вони генерують
+▸
+Inference-time tricks
+4
+Токенізація: very deep dive
+▸
+Навіщо потрібна токенізація
+▸
+BPE, WordPiece, Unigram — порівняння
+▸
+Токени ≠ слова ≠ символи
+▸
+Вплив Vocabulary Size на ефективність
+▸
+Subword bias та його наслідки
+▸
+Token limits і context window
+▸
+Prompt inflation через токенізацію
+▸
+Context Window та Token Limits
+5
+Generation mechanics: чому LLM нестабільні
+▸
+Logits → Softmax → probability distribution
+▸
+Greedy decoding та його проблеми
+▸
+Sampling як джерело різноманіття
+▸
+Temperature: контроль ентропії
+▸
+Top-k та top-p (nucleus sampling)
+▸
+Beam search: коли і навіщо
+▸
+Exposure bias
+▸
+Чому виникають галюцинації
+▸
+Stochasticity vs determinism
+6
+Prompting best practices (based on science methodology research)
+▸
+Огляд бази промптинг інжинірингу
+▸
+Систематизація наукової бази: огляд маловідомих але ефективних досліджень
+▸
+Верифікація методів: аналіз технічних прийомів на основі статистичних даних
+▸
+Вплив на результативність: метрики точності різних підходів
+▸
+Автоматичне стиснення та самооптимізація ШІ
+▸
+Власне дослідження найкращих робочих прийомів для промптів
+▸
+Практичний фреймворк для максимальної точності у продакшені
+7
+Embeddings: семантика у векторному просторі
+▸
+Що таке embedding-простір, для чого він потрібний
+▸
+Механіка навчання через contrastive Loss, triplets, encoders
+▸
+Semantic similarity vs lexical similarity
+▸
+Cosine similarity, dot product, L2 distance
+▸
+Dense vs sparse embeddings
+▸
+Multimodal embeddings для тексту, зображень, звуку, відео
+▸
+Domain-specific embeddings
+▸
+Як ефективно використовувати embeddings
+▸
+Де embeddings не працюють
+▸
+Embedding drift
+8
+Воркшоп: застосування embeddings на прикладних задачах
+Воркшоп
+▸
+Similarity search
+▸
+Clustering (K-means, HDBSCAN)
+▸
+Context-aware рекомендаційна система
+▸
+Dimensional reduction
+9
+Retrieval як система і фундамент RAG
+▸
+Information retrieval як окрема дисципліна
+▸
+BM25 та класичний пошук
+▸
+Dense retrieval
+▸
+Hybrid search
+▸
+Chunking strategies та їх вплив
+▸
+Metadata filtering
+▸
+Reranking (cross-encoders)
+▸
+Recall vs precision trade-offs
+10
+Воркшоп: побудова production-grade RAG
+Воркшоп
+▸
+Архітектури RAG
+▸
+Multi-hop retrieval
+▸
+Query rewriting та expansion
+▸
+Context compression
+▸
+RAG hallucinations
+▸
+Debugging та observability RAG
+▸
+Latency vs quality trade-offs
+11
+LLM-агенти: коли модель починає діяти
+▸
+Prompt vs chain vs agent
+▸
+Tool calling
+▸
+Planning та execution
+▸
+Short-term vs long-term memory
+▸
+Multi-agent системи
+▸
+Emergent behavior
+▸
+Коли агенти — оверкіл
+12
+Воркшоп: LLM-агенти та автоматизації
+Воркшоп
+▸
+n8n (Zapier, Make)
+▸
+LLM як оркестратор процесів
+▸
+Human-in-the-loop
+▸
+Failure handling
+▸
+Real-world automation use cases
+13
+Продакшн: latency, cost, масштабування
+▸
+Latency breakdown
+▸
+Streaming responses
+▸
+KV-cache
+▸
+Batching
+▸
+Quantization та distillation
+▸
+Model routing
+▸
+Cost engineering
+▸
+SLA для LLM-систем
+▸
+A/B тестування промптів і моделей
+▸
+Offline vs online eval
+14
+Презентація фінального проєкту
+Фінал
+▸
+Фінальний проєкт: end-to-end LLM/RAG/agents/embeddings система
+
+Після проходження 14 уроків ти навчишся створювати реальні AI-рішення (боти, автоматизації, RAG, embeddings) і зможеш застосовувати їх у роботі та власних проєктах, щоб автоматизувати задачі, економити десятки годин та почати заробляти на AI.
+
+ТАРИФИ
+ГОТОВІ ПОЧАТИ?
+
+Оберіть тариф, який підходить саме вам
+
+140+ задоволених учнів
+·
+⭐ 4.97/5
+САМОСТІЙНИЙ
+6 місяців доступу до матеріалів
+Доступ до 11 уроків та презентацій
+Домашні завдання після кожного уроку
+Фінальний проєкт у портфоліо
+Сертифікат про проходження
+Залишити заявку
+ПОПУЛЯРНИЙ
+З ПАШЕЮ
+12 місяців доступу до матеріалів
+Доступ до 14 уроків та презентацій
+3 практичні воркшопи: embeddings, RAG, агенти
+Домашні завдання після кожного уроку
+Фінальний масштабний проєкт
+Готові шаблони коду та production-ready пайплайни
+Кілька власних проєктів для портфоліо
+Особистий зв'язок зі мною в Telegram по будь-яким питанням, домашкам, обговоренням AI новин — будь що
+Сертифікат про проходження
+Залишити заявку
+Отримати запис вебінару «AI в IT: і що з цим робити?»
+Маєш питання? Напиши в Telegram
+Speaking & Events
+
+Виступи на конференціях, воркшопах та освітніх проектах
+
+DOU Day 2025 - Як і чому працює ChatGPT?
+
+Київ, 2025
+
+Forbes AI Day — Панельна дискусія
+
+Київ, 2025
+
+DOU AI — ШІ змінює процеси у продуктових командах
+
+Київ, 2025
+
+DOU AI Day — Модератор панельної дискусії
+
+Київ, 2025
+
+Mate Conf — ML у продакшні
+
+Київ, 2024
+
+AI Tech Talk
+
+Київ, 2024
+
+Universe — Воркшоп з AI
+
+Київ, 2024
+
+DOU AI DAY
+
+Київ, 2024
+
+Product Meetup — Universe
+
+Київ, 2024
+
+Військовий інститут телекомунікацій — Лекція з AI
+
+Київ, 2025
+
+Previous slide
+Next slide
+Publications and Articles
+
+Статті та матеріали про Machine Learning та AI
+
+Як і чому працює ChatGPT Assistant model. Пояснює Data Scientist
+
+Головні тренди нейронних мереж у 2025 році
+
+Як працюють моделі для генерації зображень. Stable Diffusion, Midjourney та інші
+
+Як ефективно працювати з vibecoding. 22 найкращі практики
+
+90+ питань на співбесіду з Machine Learning Engineer
+
+AI Overviews або «огляд від ШІ» — з чого вона «зібрана», як працює під капотом і чому її запуск — важливий
+
+Previous slide
+Next slide
+LET'S CONNECT
+
+Відкритий для нових можливостей та співпраці
+
+LinkedIn
+
+pasha-lysyi
+
+Email
+
+lysyi.pavlos@gmail.com
+
+Telegram
+
+@pypashka
+
+Instagram
+
+@pashalysyy
+
+About Speaker
+
+© 2026 Pavlo Lysyi. All rights reserved.
+
+AI Lead in Universe | Senior ML Engineer | AI Speaker | DOU Host | PhD candidate
+
+===== РОЗГОРНУТІ БЛОКИ (акордеони, по одному) =====
+
