@@ -1,0 +1,1975 @@
+Claude Academy
+Explore
+
+Resources
+
+
+Search
+Ctrl
+K
+Sign in
+
+Claude Cowork is now just Claude. What you learn here still works, just ask Claude
+See what changed
+
+Welcome to Claude Academy
+
+Learn to use AI safely, effectively, and with intention. Free courses, tutorials, and use cases from Anthropic’s education team.
+
+Get started
+Browse all resources
+Dive into a product
+Claude
+
+Your thinking partner for big ambitions: work through a problem, pressure-test a draft, or make sense of a dataset in conversation.
+
+Claude Cowork
+
+Hand off work you can steer anywhere. Brief Claude on a task, step away, and come back to results ready for your review.
+
+Claude Code
+
+Build software with Claude. Plan, write, debug, and ship wherever you code.
+
+Claude Tag
+
+For work that belongs to the team. Tag Claude in Slack, delegate in the open, and keep everyone in the loop.
+
+Claude Platform
+
+Build Claude into your products. Go from first call to production with the API, Claude Console, and MCP.
+
+Develop AI Fluency
+More about how AI works
+
+
+Mindsets and mental models that hold up as models and features change
+
+AI Fluency: Framework and foundations
+
+Learn to collaborate with AI effectively, efficiently, ethically, and safely using the 4D framework: Delegation, Description, Discernment, and Diligence.
+
+·
+Course
+·
+14 lessons · 1 quiz
+·
+4 hr
+AI capabilities and limitations
+
+Build an accurate mental model of what large language models can and cannot do: next-token prediction, knowledge, working memory, steerability, and context limits.
+
+·
+Course
+·
+13 lessons · 1 quiz
+·
+3.5 hr
+Building effective human-agent teams (beta)
+
+Explore the benefits of moving from single-player to multiplayer AI and learn how to prepare your team for the shift.
+
+·
+Course
+·
+5 lessons · 1 quiz
+·
+45 min
+Featured webinars
+View all webinars
+
+Recurring
+Claude Code: Foundations 
+
+
+A hands-on intro to Claude Code: install the CLI, fix a live bug, teach it your codebase with claude.md, and scale agents via MCP.
+
+(opens in new tab)
+Recurring
+Claude Code: Advanced 
+
+
+Go deep on Claude Code power skills: context engineering, MCP, hooks and permissions, and agent orchestration in a real codebase.
+
+(opens in new tab)
+Recurring
+Building your first workflow with Cowork 
+
+
+A hands-on build-along launching your first Cowork workflow, covering connectors, skills, permissions, and a scheduled weekly digest.
+
+(opens in new tab)
+© 2026 Anthropic PBC
+Privacy choices
+Privacy policy
+Usage policy
+
+Language
+English
+
+
+===== LINKS =====
+https://academy.claude.com/
+https://academy.claude.com/login?returnTo=%2F
+https://academy.claude.com/start
+https://academy.claude.com/all
+https://academy.claude.com/products/claude
+https://academy.claude.com/products/cowork
+https://academy.claude.com/products/code
+https://academy.claude.com/products/tag
+https://academy.claude.com/products/platform
+https://academy.claude.com/collections/how-ai-works
+https://academy.claude.com/courses/ai-fluency-framework-foundations
+https://academy.claude.com/courses/ai-capabilities-and-limitations
+https://academy.claude.com/courses/building-effective-human-agent-teams
+https://academy.claude.com/webinars
+
+
+########## https://academy.claude.com/products/code (final: https://academy.claude.com/products/code)
+Claude Academy
+Explore
+
+Resources
+
+
+Search
+Ctrl
+K
+Sign in
+Overview
+BROWSE
+Tutorials
+Courses
+Webinars
+YOUR ORGANIZATION
+Admin setup
+Deployment wizard
+Claude Code docs
+
+(opens in new tab)
+Help Center
+
+(opens in new tab)
+
+Claude Cowork is now just Claude. What you learn here still works, just ask Claude
+See what changed
+
+
+Academy
+Claude Code
+
+Build software with Claude. Plan, write, debug, and ship wherever you code.
+
+Start here
+Claude Code 101
+
+An agentic coding tool that lives in your terminal. Learn what Claude Code is, how it works, and the core workflows for getting real work done with it.
+
+·
+Course
+·
+12 lessons · 1 quiz
+·
+1.5 hr
+Your first day 
+
+
+Install, sign in, and ship your first change. The path from zero to a working session.
+
+·
+code.claude.com
+(opens in new tab)
+Giving Claude context 
+
+
+CLAUDE.md and prompting habits that give Claude the context it needs.
+
+·
+code.claude.com
+(opens in new tab)
+For admins and IT
+
+Deploying Claude Code across your org? Guides for setup, governance, and rollout.
+
+Admin setup
+
+Learn more
+View all
+
+Power user tips 
+
+code.claude.com
+(opens in new tab)
+Models, usage, and limits 
+
+code.claude.com
+(opens in new tab)
+User FAQ 
+
+support.claude.com
+(opens in new tab)
+Troubleshooting install and auth 
+
+code.claude.com
+(opens in new tab)
+Webinars
+View all webinars
+
+Recurring
+Claude Code: Foundations 
+
+
+A hands-on intro to Claude Code: install the CLI, fix a live bug, teach it your codebase with claude.md, and scale agents via MCP.
+
+(opens in new tab)
+Recurring
+Claude Code: Advanced 
+
+
+Go deep on Claude Code power skills: context engineering, MCP, hooks and permissions, and agent orchestration in a real codebase.
+
+(opens in new tab)
+Upcoming · Nov 12, 10:00 AM PT
+Claude in Microsoft Foundry: control the cost, prove the value 
+
+
+Lower the cost of your Claude workloads in Microsoft Foundry, keep spend visible with gateways and controls, and prove ROI.
+
+(opens in new tab)
+Docs and reference
+IDE and terminal setup 
+
+code.claude.com
+(opens in new tab)
+Workflows that stick 
+
+code.claude.com
+(opens in new tab)
+CLAUDE.md files 
+
+claude.com
+(opens in new tab)
+MCP servers 
+
+code.claude.com
+(opens in new tab)
+Hooks 
+
+claude.com
+(opens in new tab)
+Building skills 
+
+claude.com
+(opens in new tab)
+Building agents with skills 
+
+claude.com
+(opens in new tab)
+Subagents 
+
+code.claude.com
+(opens in new tab)
+The .claude directory 
+
+code.claude.com
+(opens in new tab)
+How the context window works 
+
+code.claude.com
+(opens in new tab)
+Browse it all
+Tutorials
+10 tutorials
+Courses
+7 courses
+Claude Code docs 
+
+code.claude.com
+(opens in new tab)
+Help Center 
+
+support.claude.com
+(opens in new tab)
+© 2026 Anthropic PBC
+Privacy choices
+Privacy policy
+Usage policy
+
+Language
+English
+
+Search Academy
+
+esc
+
+What do you want to learn?
+
+Search finds the most relevant pages for what you’re looking for. Learn more.
+
+↑
+↓
+Navigate
+esc
+Close
+--- links ---
+https://academy.claude.com/webinars
+https://academy.claude.com/courses/claude-code-101
+
+########## https://academy.claude.com/products/platform (final: https://academy.claude.com/products/platform)
+Claude Academy
+Explore
+
+Resources
+
+
+Search
+Ctrl
+K
+Sign in
+Overview
+BROWSE
+Tutorials
+Courses
+Webinars
+API reference docs
+
+(opens in new tab)
+Claude cookbooks
+
+(opens in new tab)
+Help Center
+
+(opens in new tab)
+
+Claude Cowork is now just Claude. What you learn here still works, just ask Claude
+See what changed
+
+
+Academy
+Claude Platform
+
+Build Claude into your products. Go from first call to production with the API, Claude Console, and MCP.
+
+Start here
+Claude Platform 101
+
+This course teaches developers to build on the Claude Platform from the ground up, whether you've made a few API calls or have only used Claude through a chat window.
+
+·
+Course
+·
+13 lessons · 1 quiz
+·
+1.5 hr
+Building with the Claude API
+
+The full spectrum of working with Anthropic models using the Claude API: prompting, tool use, RAG, agents, MCP, and production patterns.
+
+·
+Course
+·
+67 lessons · 8 quizzes
+·
+9 hr
+Introduction to Model Context Protocol
+
+Build MCP servers and clients from scratch with the Python SDK, covering the three core primitives—tools, resources, and prompts—that connect Claude to external services.
+
+·
+Course
+·
+10 lessons · 1 quiz
+·
+1 hr
+Learn more
+View all
+
+Tool use with the Messages API
+Course
+9 lessons · 1 quiz
+Model Context Protocol: Advanced topics
+Course
+11 lessons · 1 quiz
+Claude with Amazon Bedrock
+Course
+65 lessons · 8 quizzes
+Claude on Google Cloud
+Course
+66 lessons · 9 quizzes
+Building effective agents 
+
+www.anthropic.com
+—
+(opens in new tab)
+Writing effective tools for agents 
+
+www.anthropic.com
+—
+(opens in new tab)
+Effective context engineering for AI agents 
+
+www.anthropic.com
+—
+(opens in new tab)
+How we built our multi-agent research system 
+
+www.anthropic.com
+—
+(opens in new tab)
+Contextual retrieval 
+
+www.anthropic.com
+—
+(opens in new tab)
+Prompt engineering overview 
+
+platform.claude.com
+—
+(opens in new tab)
+Webinars
+View all webinars
+
+Upcoming · Nov 12, 10:00 AM PT
+Claude in Microsoft Foundry: control the cost, prove the value 
+
+
+Lower the cost of your Claude workloads in Microsoft Foundry, keep spend visible with gateways and controls, and prove ROI.
+
+(opens in new tab)
+Upcoming · Nov 17, 10:00 AM PT
+Build Agents with the Claude Platform on Google Cloud 
+
+
+Build agents on the full Claude Platform via Google Cloud using code execution, Files API, Agent Skills, and your existing IAM credentials.
+
+(opens in new tab)
+
+Recording · Oct 22
+Claude Rearview Roadmap Review: October 2026 
+
+
+A live look back at what shipped across Claude chat, Cowork, Claude Code and the Platform, what it means for your admins and users, plus a demo and Q&A.
+
+(opens in new tab)
+Browse it all
+Tutorials
+1 tutorial
+Courses
+7 courses
+API reference docs 
+
+platform.claude.com
+(opens in new tab)
+Claude cookbooks 
+
+platform.claude.com
+(opens in new tab)
+Help Center 
+
+support.claude.com
+(opens in new tab)
+© 2026 Anthropic PBC
+Privacy choices
+Privacy policy
+Usage policy
+
+Language
+English
+
+Search Academy
+
+esc
+
+What do you want to learn?
+
+Search finds the most relevant pages for what you’re looking for. Learn more.
+
+↑
+↓
+Navigate
+esc
+Close
+--- links ---
+https://academy.claude.com/webinars
+https://academy.claude.com/courses/claude-platform-101
+https://academy.claude.com/courses/building-with-the-claude-api
+https://academy.claude.com/courses/introduction-to-model-context-protocol
+https://academy.claude.com/courses/tool-use-with-the-messages-api
+https://academy.claude.com/courses/model-context-protocol-advanced-topics
+https://academy.claude.com/courses/claude-with-amazon-bedrock
+https://academy.claude.com/courses/claude-with-google-cloud-s-vertex-ai
+
+########## https://academy.claude.com/all (final: https://academy.claude.com/all)
+Claude Academy
+Explore
+
+Resources
+
+
+Search
+Ctrl
+K
+Sign in
+
+Claude Cowork is now just Claude. What you learn here still works, just ask Claude
+See what changed
+
+
+Academy
+All resources
+
+Every use case, tutorial, and course in Claude Academy, in one place.
+
+All
+Courses
+Tutorials
+Use cases
+Webinars
+
+Product
+All
+
+Role
+All
+
+
+423 resources
+
+AI capabilities and limitations
+
+Build an accurate mental model of what large language models can and cannot do: next-token prediction, knowledge, working memory, steerability, and context limits.
+
+·
+Course
+·
+13 lessons · 1 quiz
+·
+3.5 hr
+AI Fluency for builders
+
+This course empowers builders to develop AI fluency — increasing impact and efficiency while staying true to what it means to own the full arc from problem to shipped solution.
+
+·
+Course
+·
+9 lessons · 1 quiz
+·
+3 hr
+AI Fluency for creative work
+
+This course empowers creative professionals to develop AI fluency, making intentional, analysis-driven decisions about AI use in their creative practice while protecting what makes their work theirs.
+
+·
+Course
+·
+8 lessons · 1 quiz
+·
+5 hr
+AI Fluency for educators
+
+Helps faculty, instructional designers, and education leaders apply the 4D AI Fluency framework to course design, learning materials, and teaching practice.
+
+·
+Course
+·
+4 lessons · 1 quiz
+·
+1.5 hr
+AI Fluency for nonprofits
+
+Build practical AI collaboration skills for nonprofit work using the 4D Framework: Delegation, Description, Discernment, and Diligence. Covers research, writing, data analysis, and organization-wide AI adoption while staying true to your mission and values.
+
+·
+Course
+·
+9 lessons · 1 quiz
+·
+4 hr
+AI Fluency for pK-12 Train the Trainer
+
+This course empowers pK–12 educators to lead AI fluency training for their colleagues — equipping them with a ready-to-run workshop kit grounded in the 4D Framework, while staying true to educators' mission and values.
+
+·
+Course
+·
+4 lessons
+·
+45 min
+AI Fluency for pK–12 educators
+
+Helps pK-12 educators build practical AI fluency through the 4D Framework, supporting student learning while staying true to their mission and values. Created in partnership with Teach For America.
+
+·
+Course
+·
+10 lessons · 1 quiz
+·
+3 hr
+AI Fluency for small businesses
+
+Helps small business owners and staff build practical AI collaboration skills using the 4D Framework: Delegation, Description, Discernment, and Diligence. Applies the framework to everyday business tasks like research, customer data, and operations while staying true to your mission and values.
+
+·
+Course
+·
+8 lessons · 1 quiz
+·
+3.5 hr
+AI Fluency for students
+
+Helps students build AI fluency skills for learning, career planning, and academic success through responsible AI collaboration. Applies the 4D framework (delegation, description, discernment, diligence) to student life.
+
+·
+Course
+·
+5 lessons · 1 quiz
+·
+3 hr
+AI Fluency: Framework and foundations
+
+Learn to collaborate with AI effectively, efficiently, ethically, and safely using the 4D framework: Delegation, Description, Discernment, and Diligence.
+
+·
+Course
+·
+14 lessons · 1 quiz
+·
+4 hr
+Building effective human-agent teams (beta)
+
+Explore the benefits of moving from single-player to multiplayer AI and learn how to prepare your team for the shift.
+
+·
+Course
+·
+5 lessons · 1 quiz
+·
+45 min
+Building with the Claude API
+
+The full spectrum of working with Anthropic models using the Claude API: prompting, tool use, RAG, agents, MCP, and production patterns.
+
+·
+Course
+·
+67 lessons · 8 quizzes
+·
+9 hr
+Claude 101
+
+Learn to use Claude for everyday work, from your first conversation and effective prompting to projects, artifacts, skills, and connected tools.
+
+·
+Course
+·
+13 lessons · 1 quiz
+·
+2.5 hr
+Claude Code 101
+
+An agentic coding tool that lives in your terminal. Learn what Claude Code is, how it works, and the core workflows for getting real work done with it.
+
+·
+Course
+·
+12 lessons · 1 quiz
+·
+1.5 hr
+Claude Code in action
+
+Run long, hands-off Claude Code sessions you can trust: steer, configure, automate, and verify
+
+·
+Course
+·
+9 lessons · 1 quiz
+·
+1 hr
+Claude on Google Cloud
+
+Working with Anthropic models through Google Cloud's Agent Platform: setup, prompting, tool use, RAG, agents, and production deployment patterns.
+
+·
+Course
+·
+66 lessons · 9 quizzes
+·
+8.5 hr
+Claude Platform 101
+
+This course teaches developers to build on the Claude Platform from the ground up, whether you've made a few API calls or have only used Claude through a chat window.
+
+·
+Course
+·
+13 lessons · 1 quiz
+·
+1.5 hr
+Claude with Amazon Bedrock
+
+Integrating and deploying Claude through Amazon Bedrock: API implementation, tool use, RAG pipelines, agents, and production-ready applications on AWS.
+
+·
+Course
+·
+65 lessons · 8 quizzes
+·
+8 hr
+Deploying Claude Enterprise with confidence: The five decisions that shape your rollout
+
+Make the five decisions that shape how Claude works for your organization — Structure & Identity, Access, Governance, Spend, Visibility — and record them in the rollout plan you keep.
+
+·
+Course
+·
+14 lessons · 1 quiz
+·
+2.5 hr
+Introduction to agent skills
+
+Build, configure, and share skills in Claude Code — reusable markdown instructions that Claude applies automatically to matching tasks. Covers creating your first skill through team distribution and troubleshooting.
+
+·
+Course
+·
+6 lessons
+·
+1 hr
+Introduction to Claude Cowork
+
+Delegate multi-step work to Claude in Cowork: set up workspaces, give context, run task loops, and use plugins for research, documents, and browser tasks.
+
+·
+Course
+·
+14 lessons · 1 quiz
+·
+2.5 hr
+Introduction to Claude Tag
+
+Claude Tag (beta) brings Claude into your team's Slack workspace. Learn where to hand it work, how to steer and correct it, and the habits that help you and your team get more from it over time.
+
+·
+Course
+·
+11 lessons · 1 quiz
+·
+2.5 hr
+Introduction to Model Context Protocol
+
+Build MCP servers and clients from scratch with the Python SDK, covering the three core primitives—tools, resources, and prompts—that connect Claude to external services.
+
+·
+Course
+·
+10 lessons · 1 quiz
+·
+1 hr
+Introduction to subagents
+
+Decompose complex tasks across parallel Claude subagents and orchestrate them deterministically.
+
+·
+Course
+·
+4 lessons
+·
+45 min
+Load more
+© 2026 Anthropic PBC
+Privacy choices
+Privacy policy
+Usage policy
+
+Language
+English
+
+Search Academy
+
+esc
+
+What do you want to learn?
+
+Search finds the most relevant pages for what you’re looking for. Learn more.
+
+↑
+↓
+Navigate
+esc
+Close
+--- links ---
+https://academy.claude.com/courses/ai-capabilities-and-limitations
+https://academy.claude.com/courses/ai-fluency-for-builders
+https://academy.claude.com/courses/ai-fluency-for-creative-work
+https://academy.claude.com/courses/ai-fluency-for-educators
+https://academy.claude.com/courses/ai-fluency-for-nonprofits
+https://academy.claude.com/courses/ai-fluency-for-pk-12-train-the-trainer
+https://academy.claude.com/courses/ai-fluency-for-k-12-educators
+https://academy.claude.com/courses/ai-fluency-for-small-businesses
+https://academy.claude.com/courses/ai-fluency-for-students
+https://academy.claude.com/courses/ai-fluency-framework-foundations
+https://academy.claude.com/courses/building-effective-human-agent-teams
+https://academy.claude.com/courses/building-with-the-claude-api
+https://academy.claude.com/courses/claude-101
+https://academy.claude.com/courses/claude-code-101
+https://academy.claude.com/courses/claude-code-in-action
+https://academy.claude.com/courses/claude-with-google-cloud-s-vertex-ai
+https://academy.claude.com/courses/claude-platform-101
+https://academy.claude.com/courses/claude-with-amazon-bedrock
+https://academy.claude.com/courses/deploying-claude-enterprise-with-confidence
+https://academy.claude.com/courses/introduction-to-agent-skills
+https://academy.claude.com/courses/introduction-to-claude-cowork
+https://academy.claude.com/courses/introduction-to-claude-tag
+https://academy.claude.com/courses/introduction-to-model-context-protocol
+https://academy.claude.com/courses/introduction-to-subagents
+
+
+########## https://academy.claude.com/courses/claude-code-101 (final: https://academy.claude.com/courses/claude-code-101)
+Claude Academy
+Explore
+
+Resources
+
+
+Search
+Ctrl
+K
+Sign in
+
+Claude Cowork is now just Claude. What you learn here still works, just ask Claude
+See what changed
+
+
+Academy
+/
+Courses
+Claude Code 101
+
+An agentic coding tool that lives in your terminal. Learn what Claude Code is, how it works, and the core workflows for getting real work done with it.
+
+
+12 lessons
+
+1.5 hr
+
+1 quiz
+
+Completion badge
+Start course
+
+Sign in to save progress
+What you’ll learn
+By the end of this course, you’ll be able to
+
+Explain what an AI coding agent is and how Claude Code differs from chat-based AI tools
+
+Understand how the agentic loop, context window, tools, and permissions work together
+
+Install and set up Claude Code in the terminal, VS Code, JetBrains, Claude Desktop, or on the web
+
+Write effective prompts using manual mode, auto-accept, and Plan Mode
+
+Follow the Explore → Plan → Code → Commit workflow for any feature or task
+
+Manage your context window with /compact, /clear, and /context to stay productive
+
+Create and maintain a CLAUDE.md file to give Claude persistent project memory
+
+Build custom subagents to delegate tasks and keep your main context clean
+
+Connect external tools and data sources using MCP servers
+
+Write hooks for deterministic control over formatting, command blocking, and notifications
+
+AI coding agents are changing what it means to write software. Tasks that used to take an afternoon — tracing a bug across a large codebase, scaffolding a new service, reviewing a stack of pull requests — can now happen in a single focused session, with an agent that reads your code, runs your commands, and edits files alongside you. But getting real value from an agent requires more than installing it and typing a request. It requires understanding how the agent thinks, what context it has access to, and how to steer it when it heads in the wrong direction.
+
+This course teaches developers how to use Claude Code effectively, whether you're new to software engineering or an experienced engineer who hasn't yet worked with AI coding agents. We start from first principles — what an agentic loop actually is, how the context window shapes what Claude can see, how tools and permissions determine what it can do — so that the techniques later in the course make sense rather than feeling like a list of tricks to memorize.
+
+You'll learn how to install Claude Code across multiple environments (terminal, VS Code, JetBrains, Claude Desktop, and the web), and how to write prompts that get good results on the first try using approval mode, auto-accept, and Plan Mode. The core of the course is the Explore → Plan → Code → Commit workflow: a repeatable rhythm for breaking down a task, letting Claude propose an approach, reviewing the work as it happens, and landing it cleanly. We also cover code review with Claude Code and the context-management commands (/compact, /clear, /context) that keep long sessions productive.
+
+The final section is about making Claude Code your own. You'll write a CLAUDE.md file so Claude remembers your project's conventions across sessions, build custom subagents and skills for tasks you repeat often, connect external systems through MCP servers, and write hooks that add deterministic guardrails around what Claude is allowed to do. By the end, you'll have a setup tailored to how you actually work — not a generic install.
+
+Recommended prerequisites
+
+
+Basic familiarity with a code editor and the command line. You'll also need a Claude account (Pro, Max, Team, or Enterprise) or an API key. No prior experience with AI tools is assumed.
+
+Who this is for
+
+
+New developers entering software engineering who want AI-assisted workflows from the start, and experienced engineers curious about coding agents but who haven't taken the plunge yet. If you've tried a coding assistant before and found the results underwhelming, this course is designed to show you what changes when you work with an agent rather than against it.
+
+Inside the course
+What is Claude Code?
+2 lessons
+
+Before you write your first prompt, it helps to know what's actually happening when Claude Code runs. This section explains what separates an AI coding agent from a chat-based assistant, then walks through the agentic loop — gather context, take action, verify results — and the tools and permissions that govern each step. You'll come away with a mental model that makes everything in the rest of the course click.
+
+Your first prompt
+2 lessons
+
+Get Claude Code running wherever you already work — in the terminal, inside VS Code or JetBrains, in Claude Desktop, or on the web. Then write your first prompt and see how approval mode, auto-accept, and Plan Mode change the way Claude responds, so you can pick the right level of oversight for the task in front of you.
+
+Daily workflows
+3 lessons
+
+This is where Claude Code becomes part of how you ship. Learn the Explore → Plan → Code → Commit rhythm for tackling real tasks, use the context-management commands to keep long sessions fast and focused, and review what Claude changed, with your own eyes and a fresh-context reviewer, before you commit it.
+
+Customizing Claude Code
+5 lessons
+
+Out of the box, Claude Code is general-purpose. This section shows you how to make it yours: write a CLAUDE.md file so it remembers your project's conventions, build subagents and skills for the workflows you repeat, wire in external systems through MCP servers, and add hooks for deterministic guardrails. By the end you'll have a setup tuned to the way your team actually works.
+
+What is Claude Code?
+What is Claude Code?
+How Claude Code works
+Your first prompt
+Installing Claude Code
+Your first prompt
+Daily workflows
+The explore → plan → code → commit workflow
+Context management
+Code review
+Customizing Claude Code
+The CLAUDE.md file
+Subagents
+Skills
+MCP
+Hooks
+Quiz
+Course quiz
+
+Quiz
+Completion badge
+© 2026 Anthropic PBC
+Privacy choices
+Privacy policy
+Usage policy
+
+Language
+English
+
+Search Academy
+
+esc
+
+What do you want to learn?
+
+Search finds the most relevant pages for what you’re looking for. Learn more.
+
+↑
+↓
+Navigate
+esc
+Close
+--- links ---
+https://academy.claude.com/courses
+https://academy.claude.com/courses/claude-code-101/what-is-claude-code
+https://academy.claude.com/courses/claude-code-101#recommended-prerequisites
+https://academy.claude.com/courses/claude-code-101#who-this-is-for
+https://academy.claude.com/courses/claude-code-101/how-claude-code-works
+https://academy.claude.com/courses/claude-code-101/installing-claude-code
+https://academy.claude.com/courses/claude-code-101/your-first-prompt
+https://academy.claude.com/courses/claude-code-101/the-explore-plan-code-commit-workflow
+https://academy.claude.com/courses/claude-code-101/context-management
+https://academy.claude.com/courses/claude-code-101/code-review
+https://academy.claude.com/courses/claude-code-101/the-claude-md-file
+https://academy.claude.com/courses/claude-code-101/subagents
+https://academy.claude.com/courses/claude-code-101/skills
+https://academy.claude.com/courses/claude-code-101/mcp
+https://academy.claude.com/courses/claude-code-101/hooks
+https://academy.claude.com/courses/claude-code-101/course-quiz
+https://academy.claude.com/courses/claude-code-101/badge
+
+########## https://academy.claude.com/courses/claude-code-in-action (final: https://academy.claude.com/courses/claude-code-in-action)
+Claude Academy
+Explore
+
+Resources
+
+
+Search
+Ctrl
+K
+Sign in
+
+Claude Cowork is now just Claude. What you learn here still works, just ask Claude
+See what changed
+
+
+Academy
+/
+Courses
+Claude Code in action
+
+Run long, hands-off Claude Code sessions you can trust: steer, configure, automate, and verify
+
+
+9 lessons
+
+1 hr
+
+1 quiz
+
+Completion badge
+Start course
+
+Sign in to save progress
+What you’ll learn
+By the end of this course, you’ll be able to
+
+Steer the work: scope work with plan mode, direct compaction so summaries keep what matters, use the rewind menu to course-correct, and choose between hands-on steering and autonomous goal and loop runs
+
+Configure Claude: write a lean CLAUDE.md Claude actually follows, package repeated procedures as skills, pick the right permission mode for each job, and enforce the non-negotiable rules with hooks
+
+Automate repeat work: schedule prompts as routines on Anthropic infrastructure, drop to headless mode when a job needs your own pipeline, and wire Claude into pull requests with managed code review and the GitHub action
+
+Verify and share: verify unsupervised runs in proportion to how little you watched them, gate turns on real test results with hooks, and package a setup you trust as a plugin your whole team can install
+Who it’s for
+
+Developers who already use Claude Code for single prompts and want to move to longer, less supervised, team-wide workflows.
+
+Before you start
+You already use Claude Code for single prompts
+Basic familiarity with Git and the command line
+
+Claude Code in action teaches you to run Claude Code past the quick task and trust the result. You will scope and steer long sessions, write instructions Claude actually follows, enforce the rules that cannot be skipped, hand off work to hands-off and scheduled runs, and verify what came back when no one was watching. By the end you can point Claude at hours of work, walk away, and check what it did with confidence.
+
+Steer the work
+Steering long sessions
+Configure Claude
+A CLAUDE.md that follows
+Verification skills
+Permission modes
+Hooks
+Automate repeat work
+Routines and headless
+GitHub Actions and Code Review
+Verify and share
+Trust it: Verifying unsupervised runs
+Plugins
+Quiz
+Course quiz
+
+Quiz
+Completion badge
+© 2026 Anthropic PBC
+Privacy choices
+Privacy policy
+Usage policy
+
+Language
+English
+
+Search Academy
+
+esc
+
+What do you want to learn?
+
+Search finds the most relevant pages for what you’re looking for. Learn more.
+
+↑
+↓
+Navigate
+esc
+Close
+--- links ---
+https://academy.claude.com/courses
+https://academy.claude.com/courses/claude-code-in-action/steering-long-sessions
+https://academy.claude.com/courses/claude-code-in-action/a-claude-md-that-follows
+https://academy.claude.com/courses/claude-code-in-action/verification-skills
+https://academy.claude.com/courses/claude-code-in-action/permission-modes
+https://academy.claude.com/courses/claude-code-in-action/hooks
+https://academy.claude.com/courses/claude-code-in-action/routines-and-headless
+https://academy.claude.com/courses/claude-code-in-action/github-actions-and-code-review
+https://academy.claude.com/courses/claude-code-in-action/trust-it-verifying-unsupervised-runs
+https://academy.claude.com/courses/claude-code-in-action/plugins
+https://academy.claude.com/courses/claude-code-in-action/course-quiz
+https://academy.claude.com/courses/claude-code-in-action/badge
+
+########## https://academy.claude.com/courses/introduction-to-agent-skills (final: https://academy.claude.com/courses/introduction-to-agent-skills)
+Claude Academy
+Explore
+
+Resources
+
+
+Search
+Ctrl
+K
+Sign in
+
+Claude Cowork is now just Claude. What you learn here still works, just ask Claude
+See what changed
+
+
+Academy
+/
+Courses
+Introduction to agent skills
+
+Build, configure, and share skills in Claude Code — reusable markdown instructions that Claude applies automatically to matching tasks. Covers creating your first skill through team distribution and troubleshooting.
+
+
+6 lessons
+
+1 hr
+
+No completion badge
+Start course
+
+Sign in to save progress
+What you’ll learn
+By the end of this course, you’ll be able to
+
+Explain what skills are, where they live, and how Claude Code matches them to requests
+
+Create a skill from scratch with valid SKILL.md frontmatter and verify it loads
+
+Write effective skill descriptions and pre-approve tools with allowed-tools
+
+Organize larger skills using progressive disclosure, reference files, and executable scripts
+
+Choose between skills, CLAUDE.md, subagents, hooks, and MCP servers for a given use case
+
+Share skills through project repositories, plugins, enterprise managed settings, and custom subagents
+
+Diagnose triggering, loading, priority-conflict, and runtime issues with the skills validator and claude --debug
+
+Skills let you stop repeating yourself and start teaching Claude once. Instead of pasting the same guidance into every prompt, you write it down in a place Claude Code reads automatically when a request matches, and it applies consistently every time.
+
+This course takes you from your first SKILL.md to a full skills-based workflow that keeps Claude consistent, context-efficient, and aligned with your team's standards.
+
+Lessons
+What are skills?
+Creating your first skill
+Configuration and multi-file skills
+Skills vs. other Claude Code features
+Sharing skills
+Troubleshooting skills
+
+Course complete
+© 2026 Anthropic PBC
+Privacy choices
+Privacy policy
+Usage policy
+
+Language
+English
+
+Search Academy
+
+esc
+
+What do you want to learn?
+
+Search finds the most relevant pages for what you’re looking for. Learn more.
+
+↑
+↓
+Navigate
+esc
+Close
+--- links ---
+https://academy.claude.com/courses
+https://academy.claude.com/courses/introduction-to-agent-skills/what-are-skills
+https://academy.claude.com/courses/introduction-to-agent-skills/creating-your-first-skill
+https://academy.claude.com/courses/introduction-to-agent-skills/configuration-and-multi-file-skills
+https://academy.claude.com/courses/introduction-to-agent-skills/skills-vs-other-claude-code-features
+https://academy.claude.com/courses/introduction-to-agent-skills/sharing-skills
+https://academy.claude.com/courses/introduction-to-agent-skills/troubleshooting-skills
+https://academy.claude.com/courses/introduction-to-agent-skills/complete
+
+########## https://academy.claude.com/courses/introduction-to-subagents (final: https://academy.claude.com/courses/introduction-to-subagents)
+Claude Academy
+Explore
+
+Resources
+
+
+Search
+Ctrl
+K
+Sign in
+
+Claude Cowork is now just Claude. What you learn here still works, just ask Claude
+See what changed
+
+
+Academy
+/
+Courses
+Introduction to subagents
+
+Decompose complex tasks across parallel Claude subagents and orchestrate them deterministically.
+
+
+4 lessons
+
+45 min
+
+No completion badge
+Start course
+
+Sign in to save progress
+What you’ll learn
+By the end of this course, you’ll be able to
+
+Explain how subagents work: how Claude Code spins up a separate context window, how inputs flow in, and how summaries come back
+
+Create custom subagents by asking Claude to write them, for workflows like code review and documentation generation
+
+Design reliable subagents with structured output formats, obstacle reporting, and limited tool access
+
+Decide when subagents help most and recognize the common anti-patterns to avoid
+
+Subagents are one of the most practical ways to get more out of longer Claude Code sessions. They let you delegate tasks to isolated assistants that do their work separately and return just the information you need — keeping your main context window clean and your conversations focused.
+
+Lessons
+What are subagents?
+Creating a subagent
+Designing effective subagents
+Using subagents effectively
+
+Course complete
+© 2026 Anthropic PBC
+Privacy choices
+Privacy policy
+Usage policy
+
+Language
+English
+
+Search Academy
+
+esc
+
+What do you want to learn?
+
+Search finds the most relevant pages for what you’re looking for. Learn more.
+
+↑
+↓
+Navigate
+esc
+Close
+--- links ---
+https://academy.claude.com/courses
+https://academy.claude.com/courses/introduction-to-subagents/what-are-subagents
+https://academy.claude.com/courses/introduction-to-subagents/creating-a-subagent
+https://academy.claude.com/courses/introduction-to-subagents/designing-effective-subagents
+https://academy.claude.com/courses/introduction-to-subagents/using-subagents-effectively
+https://academy.claude.com/courses/introduction-to-subagents/complete
+
+########## https://academy.claude.com/courses/introduction-to-model-context-protocol (final: https://academy.claude.com/courses/introduction-to-model-context-protocol)
+Claude Academy
+Explore
+
+Resources
+
+
+Search
+Ctrl
+K
+Sign in
+
+Claude Cowork is now just Claude. What you learn here still works, just ask Claude
+See what changed
+
+
+Academy
+/
+Courses
+Introduction to Model Context Protocol
+
+Build MCP servers and clients from scratch with the Python SDK, covering the three core primitives—tools, resources, and prompts—that connect Claude to external services.
+
+
+10 lessons
+
+1 hr
+
+1 quiz
+
+Completion badge
+Start course
+
+Sign in to save progress
+What you’ll learn
+By the end of this course, you’ll be able to
+
+Understand MCP architecture and how it shifts tool definition and execution burden from your server to specialized MCP servers
+
+Learn about MCP's transport-agnostic communication system and the message types used between clients and servers
+
+Explore the complete request-response flow from user queries through MCP clients to external services and back to Claude
+
+Build MCP servers using the Python SDK with decorators to define tools instead of writing JSON schemas manually
+
+Implement document management functionality with tools for reading and editing documents using Field descriptions and type hints
+
+Use the built-in MCP Server Inspector to test and debug your server functionality in a browser-based interface
+
+Define resources for exposing read-only data, including both direct resources with static URIs and templated resources with parameters
+
+Implement resource reading functionality in clients with proper MIME type handling for JSON and text content
+
+Build prompts that provide pre-crafted, high-quality instructions for common workflows like document formatting
+
+Understand when to use each MCP primitive: tools (model-controlled), resources (app-controlled), and prompts (user-controlled)
+
+Examine practical integration patterns including autocomplete functionality and context injection for AI conversations
+Who it’s for
+
+Engineers who want to integrate Claude with external tools and services without writing tons of boilerplate integration code
+
+Before you start
+Basic Python programming experience
+Understanding of async/await patterns
+Familiarity with API concepts
+An Anthropic API key, for the chat application you run in later lessons
+
+This course covers MCP, a protocol for connecting Claude to external services and data sources without manually writing tool schemas. You'll learn to build both MCP servers that expose tools, resources, and prompts, and MCP clients that consume them. The course includes a hands-on project where you implement a document management system using MCP.
+
+Inside the course
+Introduction
+2 lessons
+
+Start with understanding MCP's architecture and why it exists.
+
+Hands-on with MCP servers
+2 lessons
+
+Build your first MCP server with tools using the Python SDK, then test it with the built-in inspector.
+
+Connecting with MCP clients
+5 lessons
+
+Build the client side to communicate with MCP servers. Implement resources for direct data access and prompts for pre-built instructions. See how everything connects in a complete application flow.
+
+Introduction
+Introducing MCP
+MCP clients
+Hands-on with MCP servers
+Defining tools with MCP
+The server inspector
+Connecting with MCP clients
+Implementing a client
+Defining resources
+Accessing resources
+Defining prompts
+Prompts in the client
+Assessment and wrap Up
+Final assessment on MCP
+
+Quiz
+MCP review
+Completion badge
+© 2026 Anthropic PBC
+Privacy choices
+Privacy policy
+Usage policy
+
+Language
+English
+
+Search Academy
+
+esc
+
+What do you want to learn?
+
+Search finds the most relevant pages for what you’re looking for. Learn more.
+
+↑
+↓
+Navigate
+esc
+Close
+--- links ---
+https://academy.claude.com/courses
+https://academy.claude.com/courses/introduction-to-model-context-protocol/introducing-mcp
+https://academy.claude.com/courses/introduction-to-model-context-protocol/mcp-clients
+https://academy.claude.com/courses/introduction-to-model-context-protocol/defining-tools-with-mcp
+https://academy.claude.com/courses/introduction-to-model-context-protocol/the-server-inspector
+https://academy.claude.com/courses/introduction-to-model-context-protocol/implementing-a-client
+https://academy.claude.com/courses/introduction-to-model-context-protocol/defining-resources
+https://academy.claude.com/courses/introduction-to-model-context-protocol/accessing-resources
+https://academy.claude.com/courses/introduction-to-model-context-protocol/defining-prompts
+https://academy.claude.com/courses/introduction-to-model-context-protocol/prompts-in-the-client
+https://academy.claude.com/courses/introduction-to-model-context-protocol/final-assessment-on-mcp
+https://academy.claude.com/courses/introduction-to-model-context-protocol/mcp-review
+https://academy.claude.com/courses/introduction-to-model-context-protocol/badge
+
+########## https://academy.claude.com/courses/model-context-protocol-advanced-topics (final: https://academy.claude.com/courses/model-context-protocol-advanced-topics)
+Claude Academy
+Explore
+
+Resources
+
+
+Search
+Ctrl
+K
+Sign in
+
+Claude Cowork is now just Claude. What you learn here still works, just ask Claude
+See what changed
+
+
+Academy
+/
+Courses
+Model Context Protocol: Advanced topics
+
+Go beyond MCP basics: sampling, notifications, and roots, with interactive walkthroughs of each protocol flow.
+
+
+11 lessons
+
+1.5 hr
+
+1 quiz
+
+Completion badge
+Start course
+
+Sign in to save progress
+What you’ll learn
+By the end of this course, you’ll be able to
+
+Understand how MCP servers can request language model calls through connected clients via sampling, shifting AI costs and complexity from server to client
+
+Implement real-time feedback using context objects, logging callbacks, and progress reporting for long-running operations
+
+Use roots to grant MCP servers access to specific directories with security boundaries and user-friendly file discovery
+
+Distinguish between request-result pairs and notification messages in the MCP message specification, and understand bidirectional communication patterns
+
+Understand how MCP clients and servers communicate over standard input/output streams, including the required initialization handshake sequence
+
+Explain how Server-Sent Events (SSE) enable server-to-client communication over HTTP, including session management and dual-connection architectures
+
+Recognize how configuration flags affect functionality, particularly server-initiated requests and streaming capabilities
+
+Decide when to use stateless HTTP for horizontal scaling with load balancers, weighing the trade-offs between stateful and stateless server configurations
+
+Choose appropriate transport methods based on deployment requirements, functionality needs, and scaling constraints
+Who it’s for
+
+Engineers building production MCP servers who need to understand the protocol's advanced capabilities
+
+Before you start
+Basic understanding of MCP servers and clients
+Familiarity with async programming patterns
+
+This course covers the technical implementation of MCP servers and clients, from basic message passing to production deployment strategies. You'll learn how MCP enables language models like Claude to interact with external tools and data sources through standardized protocols, transports, and message formats.
+
+Inside the course
+Core MCP features
+6 lessons
+
+Learn the advanced features that make MCP servers more powerful. Covers sampling to offload AI costs to clients, implementing progress notifications for better UX, and using roots to safely handle file access.
+
+Transports and communication
+5 lessons
+
+Understand how MCP messages flow between clients and servers. Explores the JSON message protocol, STDIO transport for local development, and the complexities of StreamableHTTP including when to sacrifice features for scalability.
+
+Core MCP features
+Sampling
+Sampling walkthrough
+Log and progress notifications
+Notifications walkthrough
+Roots
+Roots walkthrough
+Transports and communication
+JSON message types
+The STDIO transport
+The StreamableHTTP transport
+StreamableHTTP in depth
+State and the StreamableHTTP transport
+Assessment and next steps
+Assessment on MCP concepts
+
+Quiz
+Completion badge
+© 2026 Anthropic PBC
+Privacy choices
+Privacy policy
+Usage policy
+
+Language
+English
+
+Search Academy
+
+esc
+
+What do you want to learn?
+
+Search finds the most relevant pages for what you’re looking for. Learn more.
+
+↑
+↓
+Navigate
+esc
+Close
+--- links ---
+https://academy.claude.com/courses
+https://academy.claude.com/courses/model-context-protocol-advanced-topics/sampling
+https://academy.claude.com/courses/model-context-protocol-advanced-topics/sampling-walkthrough
+https://academy.claude.com/courses/model-context-protocol-advanced-topics/log-and-progress-notifications
+https://academy.claude.com/courses/model-context-protocol-advanced-topics/notifications-walkthrough
+https://academy.claude.com/courses/model-context-protocol-advanced-topics/roots
+https://academy.claude.com/courses/model-context-protocol-advanced-topics/roots-walkthrough
+https://academy.claude.com/courses/model-context-protocol-advanced-topics/json-message-types
+https://academy.claude.com/courses/model-context-protocol-advanced-topics/the-stdio-transport
+https://academy.claude.com/courses/model-context-protocol-advanced-topics/the-streamablehttp-transport
+https://academy.claude.com/courses/model-context-protocol-advanced-topics/streamablehttp-in-depth
+https://academy.claude.com/courses/model-context-protocol-advanced-topics/state-and-the-streamablehttp-transport
+https://academy.claude.com/courses/model-context-protocol-advanced-topics/assessment-on-mcp-concepts
+https://academy.claude.com/courses/model-context-protocol-advanced-topics/badge
+
+########## https://academy.claude.com/courses/ai-capabilities-and-limitations (final: https://academy.claude.com/courses/ai-capabilities-and-limitations)
+Claude Academy
+Explore
+
+Resources
+
+
+Search
+Ctrl
+K
+Sign in
+
+Claude Cowork is now just Claude. What you learn here still works, just ask Claude
+See what changed
+
+
+Academy
+/
+Courses
+AI capabilities and limitations
+
+Build an accurate mental model of what large language models can and cannot do: next-token prediction, knowledge, working memory, steerability, and context limits.
+
+
+13 lessons
+
+3.5 hr
+
+1 quiz
+
+Completion badge
+Start course
+
+Sign in to save progress
+What you’ll learn
+By the end of this course, you’ll be able to
+
+Distinguish generative AI from classification and prediction AI, and frame its four core properties as capability-to-limitation continuums
+
+Explain the two-stage training process (pretraining and fine-tuning) and recognize the behavioral fingerprints it leaves: sycophancy, verbosity, over-caution, and loose confidence calibration
+
+Explain Next Token Prediction as the core generative mechanism and identify where fabrication concentrates
+
+Describe how the knowledge cutoff and uneven training coverage shape what a model knows, and recognize when web search, retrieval, or tool use is the fix
+
+Explain the context window as a hard-edged limit and apply context-placement strategies like front-loading, chunking, and re-supplying critical information
+
+Predict where instruction-following is tight versus loose, and recognize reasoning drift and letter-over-spirit as steerability failures
+
+Diagnose real-world AI failures by naming which properties are colliding and choose a targeted fix
+
+Connect the four properties to the 4D Framework and practice calibrated trust by locating tasks on each continuum
+
+Most people's first experience with a generative AI system is a mix of delight and confusion. It produces a polished summary of a dense report in seconds, then confidently invents a citation that doesn't exist. It follows a detailed instruction perfectly, then ignores a simple one in the very next message. Without a mental model of what's happening underneath, these moments feel random — and it's hard to know whether to trust the next output, or how to fix the last one.
+
+This course gives learners that mental model. It's the companion to AI Fluency: Framework & Foundations: where that course teaches the human competencies (Delegation, Description, Discernment, Diligence), this one teaches the machine properties those competencies are responding to. The two are designed to be taken in either order, and together they form a complete picture of effective human-AI collaboration.
+
+We organize the course around four properties that shape what an AI system can and can't do for you: Next Token Prediction (where AI answers come from), Knowledge (what the model actually knows, and why it can be confidently wrong), Working Memory (what it's paying attention to right now, and what falls off the edge), and Steerability (how much control your instructions really give you). Each property sits on a spectrum from capability to limitation, and each section pairs a short explanation with a hands-on exercise so you can feel where the edges are rather than just read about them.
+
+The final section looks at what happens when these properties collide — because in real use, they always do. A long document pushes against working memory while also straying into knowledge the model doesn't have; a vague instruction tests steerability at the same moment next-token prediction is reaching for whatever sounds most plausible. We close with a practical diagnostic: how to look at an unexpected output, recognize which kind of unexpected it is, locate roughly where on the capability-to-limitation continuum your task landed, and respond with a targeted fix instead of a generic retry.
+
+Recommended prerequisites
+
+
+None. This course assumes no technical background and no prior experience with AI tools. If you've already completed AI Fluency: Framework & Foundations, you'll recognize where each property connects to the 4Ds — but it's not required.
+
+Who this is for
+
+
+Anyone who uses, or is about to start using, generative AI in their work or studies and wants to understand why it behaves the way it does. Educators, students, knowledge workers, and team leads will all find the same core model useful, because the properties it describes don't change across use cases.
+
+Inside the course
+Getting started
+3 lessons
+
+The word 'AI' covers a lot of ground. This section narrows it to the kind of system you'll actually be working with — large language models — and explains how two training stages, pretraining and fine-tuning, turn a raw text predictor into the helpful assistant you interact with. Along the way you'll meet the four-property framework that organizes the rest of the course.
+
+Next Token Prediction
+2 lessons
+
+Every answer an AI gives is built one token at a time, by predicting what should come next. This section shows what that means in practice: why the model is excellent at well-worn paths like summarizing or reformatting, why it can produce things that sound true but aren't, and how to recognize when a task is pushing into territory where prediction alone isn't enough.
+
+Knowledge
+2 lessons
+
+A model knows what was in its training data — frequently, recently, and consistently. This section unpacks what that implies: it's strong on mainstream topics and popular languages, weaker on anything rare, recent, niche, or contested. You'll practice judging where a question sits on that spectrum, so you know when to trust the answer and when to bring your own sources.
+
+Working Memory
+2 lessons
+
+The context window is the model's working memory: everything it can pay attention to right now, and nothing else. This section covers what fits, what quietly falls off the edge, why attention isn't uniform across a long document, and why a fresh session doesn't remember the last one. You'll learn to size up a task against the window before you start, instead of discovering the limit mid-conversation.
+
+Steerability
+2 lessons
+
+Your instructions are how you steer — but not all instructions land equally. Short, concrete, verifiable asks ('respond as a table', 'under 100 words') work reliably; long reasoning chains, abstract requests, and demands for native precision are where steering starts to slip. This section helps you tell the difference and rewrite a wobbly instruction into one the model can actually follow.
+
+Putting it all together and next steps
+3 lessons
+
+Real tasks rarely test one property at a time. A long contract review strains working memory while reaching past the model's knowledge; a vague creative brief tests steerability right where next-token prediction wants to fill in something plausible. This section shows you how the four properties collide, and gives you a diagnostic for any unexpected output: name which property is in play, place the task on its spectrum, and apply a targeted fix instead of just trying again.
+
+Getting started
+Intro to AI Capabilities and Limitations
+What We Mean by AI
+How AI Gets Its Character
+Next Token Prediction
+Next Token Prediction
+Try It Out: Next Token Prediction
+Knowledge
+Knowledge
+Try It Out: Knowledge
+Working Memory
+Working Memory
+Try It Out: Working Memory
+Steerability
+Steerability
+Try It Out: Steerability
+Putting it all together and next steps
+When Properties Collide
+Next Steps
+Course Quiz
+
+Quiz
+Completion badge
+© 2026 Anthropic PBC
+Privacy choices
+Privacy policy
+Usage policy
+
+Language
+English
+
+Search Academy
+
+esc
+
+What do you want to learn?
+
+Search finds the most relevant pages for what you’re looking for. Learn more.
+
+↑
+↓
+Navigate
+esc
+Close
+--- links ---
+https://academy.claude.com/courses
+https://academy.claude.com/courses/ai-capabilities-and-limitations/intro-to-ai-capabilities-and-limitations
+https://academy.claude.com/courses/ai-fluency-framework-foundations
+https://academy.claude.com/courses/ai-capabilities-and-limitations#recommended-prerequisites
+https://academy.claude.com/courses/ai-capabilities-and-limitations#who-this-is-for
+https://academy.claude.com/courses/ai-capabilities-and-limitations/what-we-mean-by-ai
+https://academy.claude.com/courses/ai-capabilities-and-limitations/how-ai-gets-its-character
+https://academy.claude.com/courses/ai-capabilities-and-limitations/next-token-prediction
+https://academy.claude.com/courses/ai-capabilities-and-limitations/try-it-out
+https://academy.claude.com/courses/ai-capabilities-and-limitations/knowledge
+https://academy.claude.com/courses/ai-capabilities-and-limitations/try-it-out-31vzkl2dgi907
+https://academy.claude.com/courses/ai-capabilities-and-limitations/working-memory
+https://academy.claude.com/courses/ai-capabilities-and-limitations/try-it-out-q7hdjm9twcbt
+https://academy.claude.com/courses/ai-capabilities-and-limitations/steerability
+https://academy.claude.com/courses/ai-capabilities-and-limitations/try-it-out-y02xgkpa6wa7
+https://academy.claude.com/courses/ai-capabilities-and-limitations/when-properties-collide
+https://academy.claude.com/courses/ai-capabilities-and-limitations/next-steps
+https://academy.claude.com/courses/ai-capabilities-and-limitations/course-quiz
+https://academy.claude.com/courses/ai-capabilities-and-limitations/badge
+
+########## https://academy.claude.com/courses/building-effective-human-agent-teams (final: https://academy.claude.com/courses/building-effective-human-agent-teams)
+Claude Academy
+Explore
+
+Resources
+
+
+Search
+Ctrl
+K
+Sign in
+
+Claude Cowork is now just Claude. What you learn here still works, just ask Claude
+See what changed
+
+
+Academy
+/
+Courses
+Building effective human-agent teams (beta)
+
+Explore the benefits of moving from single-player to multiplayer AI and learn how to prepare your team for the shift.
+
+
+5 lessons
+
+45 min
+
+1 quiz
+
+Completion badge
+Start course
+
+Sign in to save progress
+What you’ll learn
+By the end of this course, you’ll be able to
+
+Explain how work changes when your team moves from single-player AI to multiplayer AI
+
+Distinguish the capabilities of a multiplayer agent from a traditional chatbot
+
+Identify the specific team norms that help multiplayer agents support your team effectively
+
+Apply the four principles of healthy human-agent teams: clear roles, a written north star, gradual release, and the right information access
+Who it’s for
+
+This course is for team leads and innovators whose organizations already use AI in single-player mode and want to make the jump to multiplayer AI. No technical background needed.
+
+About this course
+
+
+Most of us are using AI in single-player mode. We ask AI to help us complete tasks and it's a trusty assistant. As agents become more capable, many teams are moving from single-player AI to multiplayer AI. This looks a lot less like "donning an AI super suit" and more like building a human-agent team. Building human-agent teams requires intention and skill. This short course follows a team moving from single-player to multiplayer AI. This course gives you a front row seat into what the shift looks like so you can lead the way in your own organization when it comes to multiplayer AI. Of note, this course was created by a human-agent team. Humans wrote and researched all of the content and agents helped with refining animations and exercise ideas.
+
+The shift to multiplayer
+Why multiplayer AI matters
+What makes an agent a teammate
+How is a multiplayer agent different from traditional AI tools?
+What a strong human-agent team looks like
+Getting your organization ready
+Organizational checklist
+Some practical ways to get started
+Course quiz
+
+Quiz
+Completion badge
+© 2026 Anthropic PBC
+Privacy choices
+Privacy policy
+Usage policy
+
+Language
+English
+
+Search Academy
+
+esc
+
+What do you want to learn?
+
+Search finds the most relevant pages for what you’re looking for. Learn more.
+
+↑
+↓
+Navigate
+esc
+Close
+--- links ---
+https://academy.claude.com/courses
+https://academy.claude.com/courses/building-effective-human-agent-teams/why-multiplayer-ai-matters
+https://academy.claude.com/courses/building-effective-human-agent-teams#about-this-course
+https://academy.claude.com/courses/building-effective-human-agent-teams/how-multiplayer-agents-differ
+https://academy.claude.com/courses/building-effective-human-agent-teams/what-a-strong-team-looks-like
+https://academy.claude.com/courses/building-effective-human-agent-teams/organizational-checklist
+https://academy.claude.com/courses/building-effective-human-agent-teams/practical-ways-to-get-started
+https://academy.claude.com/courses/building-effective-human-agent-teams/course-quiz
+https://academy.claude.com/courses/building-effective-human-agent-teams/badge
+
+########## https://academy.claude.com/webinars (final: https://academy.claude.com/webinars)
+Claude Academy
+Explore
+
+Resources
+
+
+Search
+Ctrl
+K
+Sign in
+
+Claude Cowork is now just Claude. What you learn here still works, just ask Claude
+See what changed
+
+
+Academy
+Webinars
+
+Live sessions and on-demand recordings from the Anthropic team.
+
+Featured webinars
+Recurring
+Claude Code: Foundations 
+
+
+A hands-on intro to Claude Code: install the CLI, fix a live bug, teach it your codebase with claude.md, and scale agents via MCP.
+
+(opens in new tab)
+Recurring
+Claude Code: Advanced 
+
+
+Go deep on Claude Code power skills: context engineering, MCP, hooks and permissions, and agent orchestration in a real codebase.
+
+(opens in new tab)
+Recurring
+Building your first workflow with Cowork 
+
+
+A hands-on build-along launching your first Cowork workflow, covering connectors, skills, permissions, and a scheduled weekly digest.
+
+(opens in new tab)
+Upcoming live webinars
+Upcoming · Nov 4, 1:00 PM PT
+Unified Claude: What it means for admins 
+
+
+What changes for admins and security teams as Chat and Cowork merge into one Claude, including governance, security review, and rollout.
+
+(opens in new tab)
+Upcoming · Nov 10, 10:00 AM PT
+Claude for Nonprofits: An Admin’s Guide to Data Handling and AI Policy 
+
+
+An admin's guide to documenting how Claude handles your nonprofit's data and putting a one-page AI use policy in place.
+
+(opens in new tab)
+Upcoming · Nov 12, 10:00 AM PT
+Claude for Nonprofits: A Staff Guide to Making Claude Useful on Day One 
+
+
+A same-day staff guide to connecting your files and using Claude for Nonprofits skills to draft a year-end appeal in your voice.
+
+(opens in new tab)
+Upcoming · Nov 12, 10:00 AM PT
+Claude in Microsoft Foundry: control the cost, prove the value 
+
+
+Lower the cost of your Claude workloads in Microsoft Foundry, keep spend visible with gateways and controls, and prove ROI.
+
+(opens in new tab)
+Upcoming · Nov 17, 10:00 AM PT
+Build Agents with the Claude Platform on Google Cloud 
+
+
+Build agents on the full Claude Platform via Google Cloud using code execution, Files API, Agent Skills, and your existing IAM credentials.
+
+(opens in new tab)
+On demand
+View all
+
+
+Recording · Oct 22
+Claude Rearview Roadmap Review: October 2026 
+
+
+A live look back at what shipped across Claude chat, Cowork, Claude Code and the Platform, what it means for your admins and users, plus a demo and Q&A.
+
+(opens in new tab)
+
+Recording · Oct 21
+Tokenomics on AWS: Control and optimize your Claude spend 
+
+
+Optimize your Claude spend on AWS with admin controls, default model settings, and measuring cost per task on Bedrock and the API.
+
+(opens in new tab)
+
+Recording · Oct 20
+Claude for Financial Advisors: Your Cowork Security and Compliance Questions, Answered 
+
+
+The security and compliance answers wealth firms need before connecting Cowork to your CRM, custodian and portfolio systems.
+
+(opens in new tab)
+
+Recording · Oct 15
+Claude Tag on-call: A new teammate in your incident channel 
+
+
+See how Claude Tag works as a teammate in your Slack incident channel, from reading logs to drafting fixes, with setup you can do yourself.
+
+(opens in new tab)
+
+Recording · Oct 14
+Inside the Cyber Verification Program: Tiers, Migration, and Best Practices 
+
+
+A walkthrough of the Cyber Verification Program, its three access tiers, verification, and migration for security teams.
+
+(opens in new tab)
+
+Recording · Oct 13
+Measuring AI Fluency at Your Organization 
+
+
+A practical framework for measuring AI Fluency across your organization beyond usage numbers, and turning findings into an enablement plan.
+
+(opens in new tab)
+
+Recording · Oct 8
+AI as an Engineering Leadership Multiplier 
+
+
+Practical ways to use AI as an engineering leadership multiplier without outsourcing judgment, accountability, or the human work.
+
+(opens in new tab)
+
+Recording · Oct 8
+Claude Corps Cohort 2: How to Become a Host Organization 
+
+
+A walkthrough of the Claude Corps Cohort 2 timeline, revised intake interview, selection and matching, and host organization grants and contracts.
+
+(opens in new tab)
+
+Recording · Oct 1
+Building with the Claude 5.5 Family: Choosing the Right Model and Getting More from Every Token 
+
+
+How the Claude 5.5 models were built, how to pick the right one with evals, and cut cost per task with caching and orchestration.
+
+(opens in new tab)
+© 2026 Anthropic PBC
+Privacy choices
+Privacy policy
+Usage policy
+
+Language
+English
+
+Search Academy
+
+esc
+
+What do you want to learn?
+
+Search finds the most relevant pages for what you’re looking for. Learn more.
+
+↑
+↓
+Navigate
+esc
+Close
+--- links ---
+
